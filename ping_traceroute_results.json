@@ -1,0 +1,47 @@
+{
+    "www.google.com": [
+        {
+            "timestamp": "2023-04-13 16:05:45",
+            "loss_rate": 0.0,
+            "min_rtt": 26.876,
+            "max_rtt": 27.377,
+            "avg_rtt": 34.045
+        }
+    ],
+    "www.bbc.co.uk": [
+        {
+            "timestamp": "2023-04-13 16:07:44",
+            "loss_rate": 0.0,
+            "min_rtt": 10.752,
+            "max_rtt": 11.669,
+            "avg_rtt": 18.008
+        }
+    ],
+    "www.baidu.com": [
+        {
+            "timestamp": "2023-04-13 16:09:44",
+            "loss_rate": 0.0,
+            "min_rtt": 56.685,
+            "max_rtt": 57.364,
+            "avg_rtt": 64.285
+        }
+    ],
+    "www.uol.com.br": [
+        {
+            "timestamp": "2023-04-13 16:11:43",
+            "loss_rate": 0.0,
+            "min_rtt": 9.371,
+            "max_rtt": 9.986,
+            "avg_rtt": 12.076
+        }
+    ],
+    "www.yandex.ru": [
+        {
+            "timestamp": "2023-04-13 16:13:43",
+            "loss_rate": 0.0,
+            "min_rtt": 157.083,
+            "max_rtt": 157.832,
+            "avg_rtt": 166.943
+        }
+    ]
+}
