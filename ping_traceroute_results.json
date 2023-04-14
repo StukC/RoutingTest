@@ -6,6 +6,69 @@
             "min_rtt": 26.876,
             "max_rtt": 27.377,
             "avg_rtt": 34.045
+        },
+        {
+            "timestamp": "2023-04-13 16:47:35",
+            "loss_rate": 0.0,
+            "min_rtt": 26.679,
+            "max_rtt": 27.948,
+            "avg_rtt": 31.85
+        },
+        {
+            "timestamp": "2023-04-13 17:03:11",
+            "loss_rate": 0.0,
+            "min_rtt": 26.913,
+            "max_rtt": 27.485,
+            "avg_rtt": 41.188
+        },
+        {
+            "timestamp": "2023-04-13 17:22:12",
+            "loss_rate": 0.0,
+            "min_rtt": 26.689,
+            "max_rtt": 27.314,
+            "avg_rtt": 30.64
+        },
+        {
+            "timestamp": "2023-04-13 17:52:48",
+            "loss_rate": 0.0,
+            "min_rtt": 26.417,
+            "max_rtt": 27.247,
+            "avg_rtt": 34.832
+        },
+        {
+            "timestamp": "2023-04-13 18:03:08",
+            "loss_rate": 0.0,
+            "min_rtt": 26.145,
+            "max_rtt": 27.526,
+            "avg_rtt": 37.479
+        },
+        {
+            "timestamp": "2023-04-13 18:18:17",
+            "loss_rate": 0.0,
+            "min_rtt": 26.433,
+            "max_rtt": 27.442,
+            "avg_rtt": 33.106
+        },
+        {
+            "timestamp": "2023-04-13 18:47:57",
+            "loss_rate": 0.0,
+            "min_rtt": 26.065,
+            "max_rtt": 26.942,
+            "avg_rtt": 36.857
+        },
+        {
+            "timestamp": "2023-04-13 19:16:28",
+            "loss_rate": 0.0,
+            "min_rtt": 26.785,
+            "max_rtt": 27.642,
+            "avg_rtt": 29.228
+        },
+        {
+            "timestamp": "2023-04-13 20:13:45",
+            "loss_rate": 0.0,
+            "min_rtt": 26.612,
+            "max_rtt": 27.62,
+            "avg_rtt": 38.899
         }
     ],
     "www.bbc.co.uk": [
@@ -15,6 +78,69 @@
             "min_rtt": 10.752,
             "max_rtt": 11.669,
             "avg_rtt": 18.008
+        },
+        {
+            "timestamp": "2023-04-13 16:49:34",
+            "loss_rate": 0.0,
+            "min_rtt": 10.968,
+            "max_rtt": 11.815,
+            "avg_rtt": 17.786
+        },
+        {
+            "timestamp": "2023-04-13 17:05:10",
+            "loss_rate": 0.0,
+            "min_rtt": 9.58,
+            "max_rtt": 10.265,
+            "avg_rtt": 15.374
+        },
+        {
+            "timestamp": "2023-04-13 17:24:11",
+            "loss_rate": 0.0,
+            "min_rtt": 10.575,
+            "max_rtt": 12.118,
+            "avg_rtt": 23.99
+        },
+        {
+            "timestamp": "2023-04-13 17:54:47",
+            "loss_rate": 0.0,
+            "min_rtt": 10.738,
+            "max_rtt": 12.145,
+            "avg_rtt": 20.953
+        },
+        {
+            "timestamp": "2023-04-13 18:05:07",
+            "loss_rate": 0.0,
+            "min_rtt": 10.62,
+            "max_rtt": 12.076,
+            "avg_rtt": 24.353
+        },
+        {
+            "timestamp": "2023-04-13 18:20:16",
+            "loss_rate": 0.0,
+            "min_rtt": 10.95,
+            "max_rtt": 11.794,
+            "avg_rtt": 15.973
+        },
+        {
+            "timestamp": "2023-04-13 18:49:56",
+            "loss_rate": 0.0,
+            "min_rtt": 10.81,
+            "max_rtt": 11.431,
+            "avg_rtt": 14.47
+        },
+        {
+            "timestamp": "2023-04-13 19:18:27",
+            "loss_rate": 0.0,
+            "min_rtt": 10.784,
+            "max_rtt": 11.675,
+            "avg_rtt": 17.276
+        },
+        {
+            "timestamp": "2023-04-13 20:15:44",
+            "loss_rate": 0.0,
+            "min_rtt": 11.014,
+            "max_rtt": 11.684,
+            "avg_rtt": 19.42
         }
     ],
     "www.baidu.com": [
@@ -24,6 +150,69 @@
             "min_rtt": 56.685,
             "max_rtt": 57.364,
             "avg_rtt": 64.285
+        },
+        {
+            "timestamp": "2023-04-13 16:51:35",
+            "loss_rate": 16667.0,
+            "min_rtt": 56.488,
+            "max_rtt": 81.505,
+            "avg_rtt": 111.806
+        },
+        {
+            "timestamp": "2023-04-13 17:07:09",
+            "loss_rate": 0.0,
+            "min_rtt": 56.781,
+            "max_rtt": 57.282,
+            "avg_rtt": 61.508
+        },
+        {
+            "timestamp": "2023-04-13 17:26:11",
+            "loss_rate": 833333.0,
+            "min_rtt": 56.266,
+            "max_rtt": 57.565,
+            "avg_rtt": 66.052
+        },
+        {
+            "timestamp": "2023-04-13 17:56:47",
+            "loss_rate": 0.0,
+            "min_rtt": 56.675,
+            "max_rtt": 58.066,
+            "avg_rtt": 73.008
+        },
+        {
+            "timestamp": "2023-04-13 18:07:07",
+            "loss_rate": 0.0,
+            "min_rtt": 56.516,
+            "max_rtt": 57.511,
+            "avg_rtt": 61.335
+        },
+        {
+            "timestamp": "2023-04-13 18:22:16",
+            "loss_rate": 0.0,
+            "min_rtt": 56.604,
+            "max_rtt": 58.038,
+            "avg_rtt": 66.117
+        },
+        {
+            "timestamp": "2023-04-13 18:51:56",
+            "loss_rate": 0.0,
+            "min_rtt": 56.549,
+            "max_rtt": 57.286,
+            "avg_rtt": 67.24
+        },
+        {
+            "timestamp": "2023-04-13 19:20:27",
+            "loss_rate": 0.0,
+            "min_rtt": 56.907,
+            "max_rtt": 57.629,
+            "avg_rtt": 70.484
+        },
+        {
+            "timestamp": "2023-04-13 20:17:43",
+            "loss_rate": 0.0,
+            "min_rtt": 56.073,
+            "max_rtt": 57.353,
+            "avg_rtt": 70.21
         }
     ],
     "www.uol.com.br": [
@@ -33,6 +222,69 @@
             "min_rtt": 9.371,
             "max_rtt": 9.986,
             "avg_rtt": 12.076
+        },
+        {
+            "timestamp": "2023-04-13 16:53:34",
+            "loss_rate": 0.0,
+            "min_rtt": 9.488,
+            "max_rtt": 10.45,
+            "avg_rtt": 15.808
+        },
+        {
+            "timestamp": "2023-04-13 17:09:08",
+            "loss_rate": 0.0,
+            "min_rtt": 9.461,
+            "max_rtt": 10.025,
+            "avg_rtt": 14.715
+        },
+        {
+            "timestamp": "2023-04-13 17:28:11",
+            "loss_rate": 0.0,
+            "min_rtt": 9.511,
+            "max_rtt": 10.69,
+            "avg_rtt": 18.283
+        },
+        {
+            "timestamp": "2023-04-13 17:58:46",
+            "loss_rate": 0.0,
+            "min_rtt": 9.333,
+            "max_rtt": 10.437,
+            "avg_rtt": 15.19
+        },
+        {
+            "timestamp": "2023-04-13 18:09:06",
+            "loss_rate": 0.0,
+            "min_rtt": 9.21,
+            "max_rtt": 10.658,
+            "avg_rtt": 17.582
+        },
+        {
+            "timestamp": "2023-04-13 18:24:15",
+            "loss_rate": 0.0,
+            "min_rtt": 9.436,
+            "max_rtt": 10.474,
+            "avg_rtt": 20.199
+        },
+        {
+            "timestamp": "2023-04-13 18:53:55",
+            "loss_rate": 0.0,
+            "min_rtt": 9.72,
+            "max_rtt": 10.265,
+            "avg_rtt": 16.677
+        },
+        {
+            "timestamp": "2023-04-13 19:22:27",
+            "loss_rate": 0.0,
+            "min_rtt": 9.488,
+            "max_rtt": 10.168,
+            "avg_rtt": 21.598
+        },
+        {
+            "timestamp": "2023-04-13 20:19:43",
+            "loss_rate": 0.0,
+            "min_rtt": 11.708,
+            "max_rtt": 12.413,
+            "avg_rtt": 17.462
         }
     ],
     "www.yandex.ru": [
@@ -42,6 +294,69 @@
             "min_rtt": 157.083,
             "max_rtt": 157.832,
             "avg_rtt": 166.943
+        },
+        {
+            "timestamp": "2023-04-13 16:55:34",
+            "loss_rate": 0.0,
+            "min_rtt": 156.932,
+            "max_rtt": 158.402,
+            "avg_rtt": 165.979
+        },
+        {
+            "timestamp": "2023-04-13 17:11:08",
+            "loss_rate": 0.0,
+            "min_rtt": 155.8,
+            "max_rtt": 156.674,
+            "avg_rtt": 163.738
+        },
+        {
+            "timestamp": "2023-04-13 17:30:10",
+            "loss_rate": 0.0,
+            "min_rtt": 133.547,
+            "max_rtt": 134.562,
+            "avg_rtt": 142.275
+        },
+        {
+            "timestamp": "2023-04-13 18:00:45",
+            "loss_rate": 0.0,
+            "min_rtt": 157.036,
+            "max_rtt": 158.45,
+            "avg_rtt": 168.528
+        },
+        {
+            "timestamp": "2023-04-13 18:11:06",
+            "loss_rate": 0.0,
+            "min_rtt": 157.045,
+            "max_rtt": 157.899,
+            "avg_rtt": 161.945
+        },
+        {
+            "timestamp": "2023-04-13 18:26:15",
+            "loss_rate": 0.0,
+            "min_rtt": 156.139,
+            "max_rtt": 156.629,
+            "avg_rtt": 162.264
+        },
+        {
+            "timestamp": "2023-04-13 18:55:55",
+            "loss_rate": 0.0,
+            "min_rtt": 133.815,
+            "max_rtt": 134.298,
+            "avg_rtt": 135.573
+        },
+        {
+            "timestamp": "2023-04-13 19:24:27",
+            "loss_rate": 0.0,
+            "min_rtt": 133.559,
+            "max_rtt": 134.238,
+            "avg_rtt": 134.783
+        },
+        {
+            "timestamp": "2023-04-13 20:21:42",
+            "loss_rate": 0.0,
+            "min_rtt": 133.383,
+            "max_rtt": 134.682,
+            "avg_rtt": 144.424
         }
     ]
 }
